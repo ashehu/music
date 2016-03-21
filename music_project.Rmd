@@ -22,9 +22,9 @@ Some of the feature space to look at are:
 ## Outline
 * how to work with APIs in R. Here is a good [example](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-apis.html) 
 
-* clean the data   
+* clean the data.      
 * explore the data for trends.   
-* clusturing    
+* clusturing.       
 * predictive modelling
 
 
