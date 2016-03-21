@@ -4,7 +4,7 @@ output: pdf_document
 date: "March 21, 2016"
 ---
 
-## Project goal  
+## Project goal. 
 
 What are some common features which make songs famous? unfamous? Can we predict weather a song will be famous?      
 
