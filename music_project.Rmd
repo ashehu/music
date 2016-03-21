@@ -1,0 +1,35 @@
+---
+title: "Outline"
+output: pdf_document
+date: "March 21, 2016"
+---
+
+## Project goal  
+
+What are some common features which make songs famous? unfamous? Can we predict weather a song will be famous?      
+
+Some of the feature space to look at are:    
+
+* lyrics sentiment        
+* age: average group age, lead singer's age, highest age differential within the band.       
+* intstruments     
+* sex of main singer: male/female    
+* genre    
+
+**Extension** what role do lyrics play in a song? Are there certain words which can be given more weights. 
+
+
+## Outline
+* how to work with APIs in R. Here is a good [example](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-apis.html) 
+
+* clean the data   
+* explore the data for trends.   
+* clusturing    
+* predictive modelling
+
+
+
+
+
+
+
